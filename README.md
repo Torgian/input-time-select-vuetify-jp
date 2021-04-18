@@ -29,7 +29,7 @@ hideDetails: Boolean,
 suffix: Boolean,
 ```
 - `sixtyMinuteRange` When true, this returns a list of numbers from 1 - 60 for the minute input. Default is fiveMinuteRange, which returns a range of numbers from 0 to 60, in five minute increments.
-- `range48` When true, returns a range from 0-4700, with 24-47 using 翌０ー翌２３. Default is 00-23.
+- `range48` When true, returns a range from 0-47, with 24-47 using 翌０ー翌２３. Default is 00-23.
 - `dark` Dark mode.
 - `suffix` The suffix. Typically this can be 分　or 時 in Japanese.
 
@@ -44,14 +44,13 @@ All that's required is Vue and Vuetify! You can go to the [Vuetify] page for ins
 },
  ```
 
- [Vuetify]: <https://vuetifyjs.com/en/>
-
-
-
 ### Contributors:
 
-@nasarow
-@malikolivier
+[Me!]
+
+[Malik Olivier]
+
+[My Gitlab]
 
 
 ### Project setup
@@ -77,3 +76,10 @@ yarn lint
 ## License
 
 MIT
+
+
+
+ [Vuetify]: <https://vuetifyjs.com/en/>
+ [Malik Olivier]: <https://gitlab.com/malikolivier>
+ [Me!]: <https://github.com/Torgian>
+ [My Gitlab]: <https://gitlab.com/nasarow>

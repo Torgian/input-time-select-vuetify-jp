@@ -1,11 +1,12 @@
 # input-time-select-vuetify-jp
-An input time selector made for health care industry in Japan. Vue / Vuetify
+An input time selector made with odd hours / night shifts in mind. Vue / Vuetify
 
 Thanks for your interest in this time selector!
 
 I created this because of a very specific work requirement.
 
-We needed a time selector that was tailored for the health care industry in Japan.
+We needed a time selector that was tailored for the night shift and other odd hourly shifts
+in the health care industry in Japan.
 Scheduling shifts for nurses is quite different from your typical 9AM to 5PM system.
 Many shifts may start with your typical 0800 starting time. Or, they might start at 2000 ( 8 p.m.)
 

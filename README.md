@@ -80,6 +80,5 @@ MIT
 
 
  [Vuetify]: <https://vuetifyjs.com/en/>
- [Malik Olivier]: <https://gitlab.com/malikolivier>
+ [Malik Olivier]: <https://github.com/malikolivier>
  [Me!]: <https://github.com/Torgian>
- [My Gitlab]: <https://gitlab.com/nasarow>

@@ -50,8 +50,6 @@ All that's required is Vue and Vuetify! You can go to the [Vuetify] page for ins
 
 [Malik Olivier]
 
-[My Gitlab]
-
 
 ### Project setup
 ```
